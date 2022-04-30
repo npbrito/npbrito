@@ -74,8 +74,6 @@
             width="30"  height="30"/></a> 
   </p>
 
----
-
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=npbrito&show_icons=true&title_color=333&icon_color=333&text_color=333&bg_color=fffff" alt="npbrito" />
   </p>
