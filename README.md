@@ -4,8 +4,11 @@
 
 
 🎓 I'm currently under computer engineer degree at @UFRGS (2020 - 2024)
+
 🖥️ Outside of work, I usually do small programming projects for myself. But someday I hope I can make something that can contribute to the gaming community.
+
 ✨ I'm addicted to Trading Card Games -- Play Magic Commander and Collect Pokemon Cards are my passion
+
 🎮 I also love play games (like League of Legends ;-; )
 
 ---
