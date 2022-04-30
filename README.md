@@ -11,7 +11,6 @@
 
 🎮 I also love play games (like League of Legends ;-; )
 
----
 
 <h3 align="center">✨ Languages and Tools ✨</h3>
 <br>
