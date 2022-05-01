@@ -9,7 +9,7 @@
 
 ✨ I'm addicted to Trading Card Games -- Play Magic Commander and Collect Pokemon Cards are my passion
 
-🎮 I also love play games (like League of Legends ;-; )
+🎮 I also love play games 
 
 
 <h3 align="center">✨ Languages and Tools ✨</h3>
