@@ -21,8 +21,8 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
               width="30"  height="30"/></a> 
-  <a href="https://getbootstrap.com/" target="_blank"> 
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+  <a href="https://aws.amazon.com/" target="_blank"> 
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
               width="30"  height="30"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" 
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
             width="30"  height="30"/></a> 
   <a href="https://nodejs.org/en/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
             width="30"  height="30"/></a> 
   <a href="https://nuxtjs.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
@@ -66,11 +66,11 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
             width="30"  height="30"/></a> 
+    <a href="https://www.terraform.io/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
+            width="30"  height="30"/></a> 
   <a href="https://vuejs.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-            width="30"  height="30"/></a> 
-  <a href="https://vuetifyjs.com/en/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"
             width="30"  height="30"/></a> 
   </p>
 
