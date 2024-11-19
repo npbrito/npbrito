@@ -1,14 +1,11 @@
 <h1 align="center"> 
- Natália Paz Brito
+ Hi there! 
 </h1>
+<p align="center">
+🌱 I'm <b>Natália Paz Brito</b>, a software engineer 🥰
+</p>
 
-🎓 I'm currently under computer engineer degree at @UFRGS (2020 - 2024)
-
-🖥️ Outside of work, I usually do small programming projects for myself. But someday I hope I can make something that can contribute to the gaming community.
-
-🎮 I also love play games
-
-<h3 align="center">✨ Languages and Tools ✨</h3>
+<h2 align="center">✨ Languages and Tools ✨</h2>
 <br>
  <p align="center"> 
    <a href="https://www.linux.org/" target="_blank"> 
