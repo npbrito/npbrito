@@ -7,7 +7,7 @@
 
 <h2 align="center">✨ Languages and Tools ✨</h2>
 <br>
- <p align="center" style="justify-items: center;display: flex; flex-direction: row;align-items: center;"> 
+ <div align="center" style="justify-items: center;display: flex; flex-direction: row;align-items: center;"> 
    <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
             width="30"  height="30"/></a> 
@@ -68,7 +68,7 @@
               <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
             width="30"  height="30"/></a> 
-  </p>
+  </div>
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=npbrito&show_icons=true&title_color=333&icon_color=333&text_color=333&bg_color=fffff" alt="npbrito" />
