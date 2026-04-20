@@ -7,7 +7,7 @@
 
 <h2 align="center">✨ Languages and Tools ✨</h2>
 <br>
- <p align="center"> 
+ <p align="center" style="justify-items: center;display: flex; flex-direction: row;align-items: center;"> 
    <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
             width="30"  height="30"/></a> 
